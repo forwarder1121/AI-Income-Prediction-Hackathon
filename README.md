@@ -1,6 +1,6 @@
-# 🖥 소득 예측 AI 해커톤   
+# Project : 🖥 소득 예측 AI 해커톤   
 
-## 🏆 대회 관련 Info
+## Info : 🏆 대회 관련 
 
 [Dacon : 소득 예측 AI 해커톤](https://dacon.io/competitions/official/236230/overview/description)   
 
@@ -10,7 +10,7 @@
 ---
 
 
-## 쿠글 10기 1조
+## Team : 쿠글 10기 1조
 
 <img src="https://github.com/forwarder1121/AI-Income-Prediction-Hackathon/assets/66872094/de024666-95af-48d7-b80e-89e1bc79e02a" width="150" height="150"/>
 
@@ -19,7 +19,7 @@
 
 
 
-### 파일 설명
+### Desciption
 
 #### Source Code
 - model.ipynb : 모델 학습 파일
