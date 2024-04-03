@@ -1,4 +1,4 @@
-<img src="https://github.com/forwarder1121/AI-Income-Prediction-Hackathon/assets/66872094/de024666-95af-48d7-b80e-89e1bc79e02a" width="50" height="50"/>
+<img src="https://github.com/forwarder1121/AI-Income-Prediction-Hackathon/assets/66872094/de024666-95af-48d7-b80e-89e1bc79e02a" width="100" height="100"/>
 
 
 # 🖥 소득 예측 AI 해커톤   
