@@ -1,3 +1,6 @@
+![image](https://github.com/forwarder1121/AI-Income-Prediction-Hackathon/assets/66872094/de024666-95af-48d7-b80e-89e1bc79e02a)
+
+
 # 🖥 소득 예측 AI 해커톤   
 
 ## 🏆 대회 관련 Info
