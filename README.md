@@ -12,6 +12,8 @@
 
 <img src="https://github.com/forwarder1121/AI-Income-Prediction-Hackathon/assets/66872094/de024666-95af-48d7-b80e-89e1bc79e02a" width="150" height="150"/>
 
+김동환, 김명훈, 우동협
+
 ---
 
 ### Desciption
