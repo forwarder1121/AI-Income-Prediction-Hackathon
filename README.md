@@ -28,3 +28,10 @@
 -   final.csv : 전치리된 Training Data
 -   test.csv : 테스트 데이터
 -   Editedtest.csv : 전처리된 Test Data
+
+
+##### Branch
+-    main : 최종 제출 버전 (Pull Request 필요)
+-    add/donghwan : 동환 작업 브랜치
+-    add/myeonghun : 명훈 작업 브랜치
+-    add/donghyup : 동협 작업 브랜치
