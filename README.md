@@ -25,6 +25,8 @@
 
 -   final.csv : 전치리된 Training Data
 -   test.csv : 테스트 데이터
--   Editedtest.csv : 전처리된 Test Data <- 현재 (원핫인코딩 포멧 맞추기, 조건에 따라 행 삭제) 작업 중
+-   Editedtest.csv : 전처리된 Test Data
 
-동협이 안녕
+
+현재 작업 : income=0으로 강제로 만들어주기
+
