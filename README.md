@@ -27,4 +27,3 @@
 -   test.csv : 테스트 데이터
 -   Editedtest.csv : 전처리된 Test Data <- 현재 (원핫인코딩 포멧 맞추기, 조건에 따라 행 삭제) 작업 중
 
-동협이 안녕
