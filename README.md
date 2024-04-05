@@ -26,7 +26,3 @@
 -   final.csv : 전치리된 Training Data
 -   test.csv : 테스트 데이터
 -   Editedtest.csv : 전처리된 Test Data
-
-
-현재 작업 : income=0으로 강제로 만들어주기
-
