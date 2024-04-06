@@ -8,6 +8,12 @@
 
 ---
 
+### Ranking
+
+2024.04.06(토) 116등 CatBoost 540.24303
+
+---
+
 ## Team : 쿠글 10기 1조
 
 <img src="https://github.com/forwarder1121/AI-Income-Prediction-Hackathon/assets/66872094/de024666-95af-48d7-b80e-89e1bc79e02a" width="150" height="150"/>
