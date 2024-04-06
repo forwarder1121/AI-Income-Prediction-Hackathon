@@ -6,6 +6,10 @@
 
 [Notion : 쿠글 10기 1조의 진행사항](https://lemon-paw-6c8.notion.site/EDA-6a386e559814455ba3ca28df096771f8?pvs=4)
 
+### Ranking
+
+2024.04.06(토) 116등 CatBoost 540.24303
+
 ---
 
 ## Team : 쿠글 10기 1조
