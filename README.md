@@ -23,7 +23,7 @@ Income 잘 짤라야
 
 <img src="https://github.com/forwarder1121/AI-Income-Prediction-Hackathon/assets/66872094/de024666-95af-48d7-b80e-89e1bc79e02a" width="150" height="150"/>
 
-김동환, 김명훈, 우동협
+#### 김동환, 김명훈, 우동협
 
 ---
 
@@ -31,15 +31,12 @@ Income 잘 짤라야
 
 #### Source Code
 
--   model.ipynb : 모델 학습 파일
--   test.ipynb : 테스트 데이터 전처리 파일
+-   lightGBM.ipynb : 모델 학습 파일
+
 
 #### CSV File
 
--   final.csv : 전치리된 Training Data
--   test.csv : 테스트 데이터
--   Editedtest.csv : 전처리된 Test Data
-
+-   submissionFile.csv : 제출파일
 
 #### Branch
 
