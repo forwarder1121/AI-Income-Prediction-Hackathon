@@ -1,6 +1,6 @@
-# Project : 🖥 소득 예측 AI 해커톤
+# 🖥  Project : 소득 예측 AI 해커톤
 
-## Info : 🏆 대회 관련
+## ℹ Info : 대회 관련
 
 [Dacon : 소득 예측 AI 해커톤](https://dacon.io/competitions/official/236230/overview/description)
 
@@ -8,7 +8,7 @@
 
 ---
 
-### Ranking
+### 🏆  Ranking
 
 2024.04.06(토) 23:00 116등 CatBoost 540.24303    
 2024.04.07(일) 01:00  86등 CatBoost 539.11932  
