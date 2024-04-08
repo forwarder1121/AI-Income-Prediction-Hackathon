@@ -34,6 +34,11 @@
 
 ## Desciption
 
+#### Architecture
+
+![image](https://github.com/forwarder1121/AI_Hackathon_Income_Prediction/assets/66872094/6bf08043-2fe1-441b-9722-d0d3e0b5d12c)
+
+
 #### Source Code
 
 -   lightGBM.ipynb : 모델 학습 파일   
