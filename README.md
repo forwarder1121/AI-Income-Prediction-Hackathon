@@ -34,16 +34,16 @@ Private 최종
 
 #### Source Code
 
--   lightGBM.ipynb : 모델 학습 파일
+-   lightGBM.ipynb : 모델 학습 파일   
 
 
 #### CSV File
 
--   submissionFile.csv : 제출파일
+-   submissionFile.csv : 제출파일   
 
 #### Branch
 
--    main : 최종 제출 브랜치
--    add/donghwan : 동환 작업 브랜치
--    add/myeonghun : 명훈 작업 브랜치
--    add/donghyup : 동협 작업 브랜치
+-    main : 최종 제출 브랜치   
+-    add/donghwan : 동환 작업 브랜치    
+-    add/myeonghun : 명훈 작업 브랜치   
+-    add/donghyup : 동협 작업 브랜치   
