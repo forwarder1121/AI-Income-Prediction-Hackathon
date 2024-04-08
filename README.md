@@ -1,6 +1,6 @@
-# Project : 🖥 소득 예측 AI 해커톤
+# 🖥  Project : 소득 예측 AI 해커톤
 
-## Info : 🏆 대회 관련
+## ℹ Info : 대회 관련
 
 [Dacon : 소득 예측 AI 해커톤](https://dacon.io/competitions/official/236230/overview/description)
 
@@ -8,11 +8,12 @@
 
 ---
 
-### Ranking
+### 🏆  Ranking
 
 2024.04.06(토) 23:00 116등 CatBoost 540.24303    
 2024.04.07(일) 01:00  86등 CatBoost 539.11932  
-2024.04.07(일) 11:00  61등 CatBoost 537.3959561923
+2024.04.07(일) 11:00  61등 CatBoost 537.39595  
+2024.04.07(일) 13:00  48등 LightGBM 536.91885
   
 Income 잘 짤라야
 
@@ -22,7 +23,7 @@ Income 잘 짤라야
 
 <img src="https://github.com/forwarder1121/AI-Income-Prediction-Hackathon/assets/66872094/de024666-95af-48d7-b80e-89e1bc79e02a" width="150" height="150"/>
 
-김동환, 김명훈, 우동협
+#### 김동환, 김명훈, 우동협
 
 ---
 
@@ -30,15 +31,12 @@ Income 잘 짤라야
 
 #### Source Code
 
--   model.ipynb : 모델 학습 파일
--   test.ipynb : 테스트 데이터 전처리 파일
+-   lightGBM.ipynb : 모델 학습 파일
+
 
 #### CSV File
 
--   final.csv : 전치리된 Training Data
--   test.csv : 테스트 데이터
--   Editedtest.csv : 전처리된 Test Data
-
+-   submissionFile.csv : 제출파일
 
 #### Branch
 
