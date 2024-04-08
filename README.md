@@ -43,7 +43,7 @@ Private 최종
 
 #### Branch
 
--    main : 최종 제출 버전 (Lock 걸어둠)
+-    main : 최종 제출 브랜치
 -    add/donghwan : 동환 작업 브랜치
 -    add/myeonghun : 명훈 작업 브랜치
 -    add/donghyup : 동협 작업 브랜치
