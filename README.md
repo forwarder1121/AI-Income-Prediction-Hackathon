@@ -10,13 +10,15 @@
 
 ### 🏆  Ranking
 
-Public 기준 
+< Public 기준 >  
+
 2024.04.06(토) 23:00 116등 CatBoost 540.24303    
 2024.04.07(일) 01:00  86등 CatBoost 539.11932  
 2024.04.07(일) 11:00  61등 CatBoost 537.39595  
 2024.04.07(일) 13:00  48등 LightGBM 536.91885
 
-Private 최종
+< Private 최종 >  
+
 2024.04.08(월) 10:00 166등 LightGBM 557.08719
 
 
@@ -31,6 +33,11 @@ Private 최종
 ---
 
 ## Desciption
+
+#### Flow Chart
+
+![image](https://github.com/forwarder1121/AI_Hackathon_Income_Prediction/assets/66872094/6bf08043-2fe1-441b-9722-d0d3e0b5d12c)
+
 
 #### Source Code
 
