@@ -4,7 +4,7 @@
 
 [Dacon : 소득 예측 AI 해커톤](https://dacon.io/competitions/official/236230/overview/description)
 
-[Notion : 쿠글 10기 1조의 진행사항](https://lemon-paw-6c8.notion.site/EDA-6a386e559814455ba3ca28df096771f8?pvs=4)
+[Notion : 쿠글 10기 1조 논의 사항](https://lemon-paw-6c8.notion.site/EDA-6a386e559814455ba3ca28df096771f8?pvs=4)
 
 ---
 
@@ -17,7 +17,7 @@
 2024.04.07(일) 11:00  61등 CatBoost 537.39595  
 2024.04.07(일) 13:00  48등 LightGBM 536.91885
 
-< Private 최종 >  
+< Private 기준 >  
 
 2024.04.08(월) 10:00 166등 LightGBM 557.08719
 
